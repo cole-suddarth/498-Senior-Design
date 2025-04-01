@@ -1,0 +1,12 @@
+vmbpy
+spectral
+numpy
+PyQt5
+serial
+time
+math
+struct
+sys
+re
+copy
+matplotlib
